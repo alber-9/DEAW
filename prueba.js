@@ -1,1 +1,1 @@
-console.log ("loco");
+console.log ("loco del mundo");
